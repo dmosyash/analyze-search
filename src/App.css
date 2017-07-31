@@ -1,0 +1,29 @@
+.App {
+}
+
+.App-intro {
+  font-size: large;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+thead tr{
+  font-size: large;
+  background-color: #4CAF50;
+  height: 50px;
+}
+
+
+table,td,th {
+  border: 1px solid black;
+  text-align: left;
+  padding-left: 10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
